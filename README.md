@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Erkin Verbeek
-- 🏎️ I’m interested in using Distributed and High-Performance Computing principles to make things go faster
-- 🌱 I’m currently finishing up a Master's in Computational Science & Engineering at MIT
+- 🏎️ I’m interested in making programs run fast, most recently through High-Performance Computing techniques 
+- 🌱 I recently finished up a Master's in Computational Science & Engineering at MIT
 - 📫 You can reach me by email at everbeek (at) mit (dot) edu
 <!---- 💞️ I’m looking to collaborate on ...--->
 
